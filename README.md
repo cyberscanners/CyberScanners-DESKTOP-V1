@@ -17,3 +17,7 @@ $ bash desktop.sh
 # DESKTOP ON COMMAND.
 
 $ vncserver :1 && xrdp &
+
+# DESKTOP OFF COMMAND.
+
+$ vncserver -kill :1 && pkill xrdp

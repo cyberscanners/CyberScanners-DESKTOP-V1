@@ -7,3 +7,5 @@ $ pkg install x11-repo -y
 $ pkg install xfce4 xfce4-terminal xrdp tigervnc -y
 
 $ pkg install git
+
+$ git clone https://github.com/cyberscanners/CyberScanners-DESKTOP-V1.git

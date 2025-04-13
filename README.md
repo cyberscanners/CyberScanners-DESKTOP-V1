@@ -28,6 +28,6 @@ cyber@
 
 @cyber
 
-# Download VNC Viewer:Remote Desktop.
+# Download VNC Viewer:Remote Desktop App.
 
 https://play.google.com/store/apps/details?id=com.realvnc.viewer.android

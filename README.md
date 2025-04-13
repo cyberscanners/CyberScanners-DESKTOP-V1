@@ -13,3 +13,7 @@ $ git clone https://github.com/cyberscanners/CyberScanners-DESKTOP-V1.git
 $ cd CyberScanners-DESKTOP-V1
 
 $ bash desktop.sh
+
+# DESKTOP ON COMMAND.
+
+$ vncserver :1 && xrdp &

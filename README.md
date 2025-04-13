@@ -27,3 +27,7 @@ $ vncserver -kill :1 && pkill xrdp
 cyber@
 
 @cyber
+
+# Download VNC Viewer:Remote Desktop.
+
+https://play.google.com/store/apps/details?id=com.realvnc.viewer.android

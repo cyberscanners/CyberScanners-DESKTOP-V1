@@ -1,5 +1,7 @@
 # CyberScanners-DESKTOP-V1
 
+# 𝐂𝐘𝐁𝐄𝐑 𝐒𝐂𝐀𝐍𝐍𝐄𝐑𝐒 𝐇𝐀𝐂𝐊𝐈𝐍𝐆 𝐓𝐄𝐑𝐌𝐔𝐗 𝐃𝐄𝐒𝐊𝐓𝐎𝐏.
+
 $ pkg update && pkg upgrade
 
 $ pkg install x11-repo -y

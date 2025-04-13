@@ -9,3 +9,7 @@ $ pkg install xfce4 xfce4-terminal xrdp tigervnc -y
 $ pkg install git
 
 $ git clone https://github.com/cyberscanners/CyberScanners-DESKTOP-V1.git
+
+$ cd CyberScanners-DESKTOP-V1
+
+$ bash desktop.sh

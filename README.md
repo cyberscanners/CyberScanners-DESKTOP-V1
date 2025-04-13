@@ -21,3 +21,9 @@ $ vncserver :1 && xrdp &
 # DESKTOP OFF COMMAND.
 
 $ vncserver -kill :1 && pkill xrdp
+
+# PASSWORD DESKTOP :
+
+cyber@
+
+@cyber
